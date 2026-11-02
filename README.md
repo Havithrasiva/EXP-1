@@ -84,6 +84,7 @@ b.  KCL:
 Tabulation:
 
 a.   KVL:
+
 <img width="543" height="175" alt="Screenshot 2026-11-02 220242" src="https://github.com/user-attachments/assets/85d14095-34ff-401d-992a-ff5db976cf85" />
 
 
@@ -92,6 +93,7 @@ a.   KVL:
 
 
 b.  KCL:
+
 <img width="566" height="208" alt="Screenshot 2026-11-02 220249" src="https://github.com/user-attachments/assets/f9ba8eaf-6213-4056-983f-235cba94eb3f" />
 
 
